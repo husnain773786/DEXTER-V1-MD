@@ -16,7 +16,7 @@ global.website = 'https://github.com/Sithuwa/SITHUWA-MD' //wa.me/+94000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg'
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
-  author:  process.env.PACK_AUTHER ||  'SITHUWA BOT',
+  author:  process.env.PACK_AUTHER ||  'ᴹᴿ°᭄HUSNAIN❖࿐',
   packname:  process.env.PACK_NAME || 'MADE BY SITHUM KALHARA',
   
   botname:   process.env.BOT_NAME === undefined ? "SITHUWA-MD" : process.env.BOT_NAME,
@@ -37,7 +37,15 @@ module.exports = {
   BRANCH: 'main', 
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
   autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
-  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱɪᴛʜᴜᴡᴀ-ᴍᴅ•* ",   //*『sᴜʙsᴄʀɪʙᴇ • ʙʟᴀᴅᴇ ᴛᴇᴄʜ』*\n youtube.com/@blade444"),	
+  caption :process.env.CAPTION || 
+
+*☞ ⃟☬₉₇ⷨ₁ᷢ₅₂ⷩ₆ͧ₆ᷤ₇ᷠ₁ͣ₃ͥ₁ᷠ₀☬ ⃟☜*
+
+*🔥𔐗𝗥𝗢𝗬𝗔𝗟☂︎ 𝗫 𝗢𝗦𝗶𝗖 ⎙ 𝗖𝗟𝗨𝗕𝁂꯭꯭꯭֯🥏*
+
+*دیــکــھــا ہے مــیں نے اس دنیــــا کا رواج عــشق*
+*جہــــاں عــام سے خـــاص ہو جـــاتے ہـــیں❤️*
+*پــھــر خـــاص سے خـــاک🥀💔*"),	
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
@@ -46,7 +54,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'sithuwa-md',
+  LANG: process.env.THEME|| '*ᴹᴿ°᭄HUSNAIN❖࿐*',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
